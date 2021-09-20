@@ -75,9 +75,6 @@ namespace EcommApi.Controllers
             return Ok(data);
         }
 
-        public IActionResult abc()
-        {
-            return Ok();
-        }
+       
     }
 }
